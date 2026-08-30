@@ -152,3 +152,5 @@ auth-temporary-credentials.txt
 # Vercel local project config
 .vercel/
 
+.env
+.venv/
